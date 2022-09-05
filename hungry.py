@@ -5,7 +5,7 @@ print("I ate Pizza")
 print("I like Burger")
 =======
 thirsty = input("Are you thirsty?")
-if thirsty == "Yes":
+if thirsty == "Yes" and thirty =="Y':
 <<<<<<< HEAD
     print("Drink Cool-drinks")
 =======
